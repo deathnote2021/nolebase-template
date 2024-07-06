@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "047f80499844e4ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c26d4079edf7e2f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86ce3f022c99e40f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🔌 知识库插件列表.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1bfb6a18608f7d61",
+    "type": "split",
+    "children": [
+      {
+        "id": "b38c9ef768d29b58",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b0d514af1a3db84e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0576ea1a0a4f1f0a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1f76bdab71cf357d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "40455648429c9a8b",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d8152525372398f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7fcc1a160ce75cd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "🔌 知识库插件列表.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f867fe7d7a697c3e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "🔌 知识库插件列表.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "85da22012a862025",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5bdd3684201f2621",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "🔌 知识库插件列表.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "86ce3f022c99e40f",
+  "lastOpenFiles": [
+    "index.md",
+    "toc.md",
+    "视图/未添加标签的页面.md",
+    "视图/尚未编写完成的页面.md",
+    "笔记/ttt/bbb.md",
+    "笔记/ttt/aaa.md",
+    "笔记/演示目录1/文档-带评论.md",
+    "🔌 知识库插件列表.md",
+    "public/safari-pinned-tab.svg",
+    "public/og.png",
+    "public/mstile-310x150.png",
+    "笔记/index.md",
+    "笔记/演示目录1/文档-不带评论.md",
+    "public/apple-touch-icon.png",
+    "public/android-chrome-192x192.png",
+    "笔记/✍️ 文档工程/图表即代码（CaC）图表绘制.md",
+    "笔记/✍️ 文档工程/API 文档系统.md",
+    "笔记/ttt",
+    "README.md"
+  ]
+}
