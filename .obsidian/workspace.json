@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🔌 知识库插件列表.md",
+                "file": "笔记/作品集/2407-奶昔百天.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🔌 知识库插件列表.md",
+                "file": "笔记/作品集/2407-奶昔百天.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🔌 知识库插件列表.md",
+                "file": "笔记/作品集/2407-奶昔百天.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🔌 知识库插件列表.md"
+                "file": "笔记/作品集/2407-奶昔百天.md"
               }
             }
           }
@@ -149,24 +149,24 @@
   },
   "active": "86ce3f022c99e40f",
   "lastOpenFiles": [
+    "笔记/✍️ 文档工程/API 文档系统.md",
+    "笔记/index.md",
+    "笔记/作品集/bbb.md",
+    "🔌 知识库插件列表.md",
     "index.md",
     "toc.md",
     "视图/未添加标签的页面.md",
     "视图/尚未编写完成的页面.md",
-    "笔记/ttt/bbb.md",
-    "笔记/ttt/aaa.md",
+    "笔记/作品集/2407-奶昔百天.md",
     "笔记/演示目录1/文档-带评论.md",
-    "🔌 知识库插件列表.md",
     "public/safari-pinned-tab.svg",
     "public/og.png",
     "public/mstile-310x150.png",
-    "笔记/index.md",
     "笔记/演示目录1/文档-不带评论.md",
     "public/apple-touch-icon.png",
     "public/android-chrome-192x192.png",
     "笔记/✍️ 文档工程/图表即代码（CaC）图表绘制.md",
-    "笔记/✍️ 文档工程/API 文档系统.md",
-    "笔记/ttt",
+    "笔记/作品集",
     "README.md"
   ]
 }
